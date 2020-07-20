@@ -7,11 +7,11 @@
 
  
 h1{
-    color: silver;
+    color: black;
     margin-bottom: 50px;
     padding-top: 50px;
     text-align: center;
-    background-color: white;
+    background-color: blue;
 }
 
 hr{
@@ -27,7 +27,7 @@ hr{
     border: 3px solid;
     font-size:18px;
     background-color:gray;
-    color:black;
+    color:silver;
     font-weight: bold;
     font-style: italic;
   }
